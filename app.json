@@ -7,7 +7,7 @@
         "Editor",
         "Telegram Bot"
     ],
-    "repository": "https://github.com/fahrial2310/IMGEditor-TeleBot-ENG",
+    "repository": "https://github.com/fahrial2310/IMGEditor-Multi-Lang",
     "env": {
         "BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
@@ -36,11 +36,36 @@
             "description": "your username without @",
             "value": "Alvin_junior",
             "required": true
-               },
+       },
+        "OWNER_NAME": {
+            "description": "your name",
+            "value": "Muhammad Fahri",
+            "required": true
+        },
         "OWNER_ID": {
             "description": "your id",
             "value": "478939112",
-            "required": true     
+            "required": true    
+       },
+        "SUPPORT_GRP": {
+            "description": "your group username without @",
+            "value": "Alvin_image_editor_group",
+            "required": true
+       },
+        "UPDATES_CH": {
+            "description": "your updates username without @",
+            "value": "alvin_image_editor",
+            "required": true
+       },
+        "SUPPORT_NAME": {
+            "description": "your group name",
+            "value": "Image Editor X Alvin Support",
+            "required": true
+       },
+        "UPDATES_NAME": {
+            "description": "your updates name",
+            "value": "Image Editor X Alvin Updates",
+            "required": true
         }
     },
     "addons": [],
