@@ -21,5 +21,5 @@ For more click help....</b>"""
 
 ☠️ <b>{UPDATES_NAME} :</b> <a href='t.me/{UPDATES_CH}'>{UPDATES_NAME}</a>
 
-☠️ <b>Source Code :</b> <a href ='https://github.com/fahrial2310/IMGEditor-TeleBot-ENG'>Source Code</a>
+☠️ <b>Source Code :</b> <a href ='https://github.com/fahrial2310/IMGEditor-Multi-Lang'>Source Code</a>
 """
