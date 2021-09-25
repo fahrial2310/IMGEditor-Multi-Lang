@@ -14,12 +14,12 @@ For more click help....</b>"""
 
 
 ☠️ @Alvin_junior"""
-    ABOUT_MSG = """☠️ <b>My Name is:</b> :</b> <a href='t.me/AlvinImageEditor'>Alvin Image Editor ☠️</a>
-☠️ <b>Creator :</b> <a href='t.me/Alvin_junior'>Muhammad Fahri</a>
+    ABOUT_MSG = f"""☠️ <b>My Name is:</b> :</b> <a href='t.me/{BOT_USERNAME}'>{BOT_NAME} ☠️</a>
+☠️ <b>Creator :</b> <a href='t.me/{OWNER_USERNAME}'>{OWNER_NAME}</a>
 
-☠️ <b>Support Group :</b> <a href='t.me/Alvin_image_editor_group'>Alvin Support</a>
+☠️ <b>{SUPPORT_NAME} :</b> <a href='t.me/{SUPPORT_GRP}'>{SUPPORT_NAME}</a>
 
-☠️ <b>Updates Channel :</b> <a href='t.me/Alvin_image_editor'>Alvin Updates</a>
+☠️ <b>{UPDATES_NAME} :</b> <a href='t.me/{UPDATES_CH}'>{UPDATES_NAME}</a>
 
-☠️ <b>off topic Group :</b> <a href ='t.me/Alvin_image_editor_helpers'>Off Topic</a>
+☠️ <b>Source Code :</b> <a href ='https://github.com/fahrial2310/IMGEditor-TeleBot-ENG'>Source Code</a>
 """
