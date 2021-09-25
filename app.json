@@ -14,6 +14,16 @@
             "value": "",
             "required": true
         },
+        "BOT_NAME": {
+            "description": "You Telegram Bot Token from @BotFather",
+            "value": "imgeditorbot",
+            "required": true
+        },
+        "BOT_USERNAME": {
+            "description": "You Telegram Bot Token from @BotFather",
+            "value": "Alvin Image Editor",
+            "required": true
+        },
         "API_HASH": {
             "description": "Your API Hash from my.telegram.org",
             "value": "",
