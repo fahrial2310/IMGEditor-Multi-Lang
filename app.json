@@ -16,12 +16,12 @@
         },
         "BOT_NAME": {
             "description": "your bot name",
-            "value": "imgeditorbot",
+            "value": "Alvin Image Editor",
             "required": true
         },
         "BOT_USERNAME": {
             "description": "your bot username without",
-            "value": "Alvin Image Editor",
+            "value": "imgeditorbot",
             "required": true
         },
         "API_HASH": {
