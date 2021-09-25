@@ -3,7 +3,8 @@ import os
 
 if bool(os.environ.get("WEBHOOK", False)):
     from config import Config
-
+else:
+    
 if __name__ == "__main__":
     plugins = dict(root="plugins")
 
