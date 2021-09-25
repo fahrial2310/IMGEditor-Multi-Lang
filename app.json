@@ -15,12 +15,12 @@
             "required": true
         },
         "BOT_NAME": {
-            "description": "You Telegram Bot Token from @BotFather",
+            "description": "your bot name",
             "value": "imgeditorbot",
             "required": true
         },
         "BOT_USERNAME": {
-            "description": "You Telegram Bot Token from @BotFather",
+            "description": "your bot username without",
             "value": "Alvin Image Editor",
             "required": true
         },
