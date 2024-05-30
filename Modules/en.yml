@@ -1,0 +1,15 @@
+language: "English"
+start_msg: |
+   Halo {}
+I am an editor bot that can edit the images you want click help for assistance....
+help_msg: |
+   ikuti step ini untuk bantuan..
+<code>1️> Send Me Any Image For Editing..</code>
+<code>2️> Select the mode according to what you need</code>
+<code>3️> Your edited image will be uploaded</code>
+about_msg: |
+   ☠️ <b>nama saya adalah:</b> :</b> <a href='t.me/{BOT_USERNAME}'>{BOT_NAME} ☠️</a>
+☠️ <b>Creator :</b> <a href='t.me/Alvin_junior'>Muhammad Fahri</a>
+☠️ <b>Support Group :</b> <a href='t.me/{SUPPORT_GRP}'>{SUPPORT_NAME}</a>
+☠️ <b>Updates Channel :</b> <a href='t.me/{UPDATES_CH}'>{UPDATES_NAME}</a>
+☠️ <b>Source Code :</b> <a href='https://github.com/fahrial2310/IMGEditor-Multi-Lang'</a>
